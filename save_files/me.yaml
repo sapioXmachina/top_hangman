@@ -1,0 +1,26 @@
+---
+- - W
+  - R
+  - I
+  - T
+  - I
+  - "N"
+  - G
+  - S
+- - _
+  - R
+  - I
+  - T
+  - I
+  - "N"
+  - G
+  - _
+- !ruby/object:Player
+  name: Me
+  letters_used:
+  - I
+  - T
+  - "N"
+  - R
+  - G
+  last_saved: 2025-05-07 10:40:48.150937000 -04:00

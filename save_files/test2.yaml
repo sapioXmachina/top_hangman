@@ -1,0 +1,20 @@
+---
+- - B
+  - R
+  - A
+  - C
+  - K
+  - E
+  - T
+- - _
+  - _
+  - A
+  - _
+  - _
+  - _
+  - _
+- !ruby/object:Player
+  name: Test2
+  letters_used:
+  - A
+  last_saved: 2025-05-07 10:33:47.107691000 -04:00
